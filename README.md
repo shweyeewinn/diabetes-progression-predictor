@@ -4,7 +4,7 @@ A Streamlit web app that estimates **diabetes disease progression one year after
 
 **Live demo:** <your-app>.streamlit.app <!-- replace after deploying -->
 
-![App screenshot](screenshot.png) <!-- add a screenshot, or delete this line -->
+![Diabetes Progression Predictor app showing patient measurement sliders and a predicted score](screenshot.png)
 
 > **Educational project only.** This is not a medical tool and must not be used for diagnosis or treatment decisions.
 
